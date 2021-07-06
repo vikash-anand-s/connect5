@@ -11,6 +11,5 @@
 using namespace std;
 
 int main() {
-    system("clear");
     startGame();
 }
